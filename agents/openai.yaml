@@ -1,0 +1,4 @@
+interface:
+  display_name: "GD Doc Kickoff"
+  short_description: "Проводит ГД через интервью до полного боевого ТЗ"
+  default_prompt: "Use $gd-doc-kickoff to run a structured RU interview and generate a complete feature spec markdown."
