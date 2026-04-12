@@ -51,7 +51,7 @@ git clone https://github.com/VKSpaz/gd-doc-kickoff.git "$HOME/.codex/skills/gd-d
 
 1. Клонируйте репозиторий в локальную папку:
 ```bash
-git clone [https://github.com/<OWNER>/gd-doc-kickoff.git](https://github.com/VKSpaz/gd-doc-kickoff.git)
+git clone https://github.com/VKSpaz/gd-doc-kickoff.git
 ```
 2. Подключите эту папку как локальный skill/prompt-пакет в вашем инструменте.
 3. Если есть выбор entry-point, указывайте `SKILL.md`.
