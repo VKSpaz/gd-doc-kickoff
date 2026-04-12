@@ -1,0 +1,4 @@
+interface:
+  display_name: "GD Doc Kickoff (Codex)"
+  short_description: "Структурирует идею и фичу в production-ready .md"
+  default_prompt: "Apply gd-doc-kickoff workflow in Russian: run idea readiness, decompose concept into docs/project-concept.md and docs/feature-index.md, then produce feature specs in <project_root>/docs/."
