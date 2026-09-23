@@ -1,4 +1,7 @@
 interface:
   display_name: "GD Doc Kickoff"
-  short_description: "Интервью для полного GD-спека с сохранением в docs"
-  default_prompt: "Use $gd-doc-kickoff to run the full RU workflow: idea readiness, concept decomposition into project-concept + feature-index, then generate feature specs and save outputs to <project_root>/docs/."
+  short_description: "Интервью и дизайн-документ выбранной фичи"
+  default_prompt: "Используй $gd-doc-kickoff: проведи интервью по выбранной фиче и составь её Markdown-документ."
+
+policy:
+  allow_implicit_invocation: false
